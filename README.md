@@ -8,4 +8,5 @@ Users are authenticate using JWT (JSON WEB TOKEN).
 ![footer](https://github.com/avisaini0501/Tour-and-Travel-Booking-site/assets/81501977/8c58661f-5def-44d1-8eb6-a2127c0ef913)
 ![gallery](https://github.com/avisaini0501/Tour-and-Travel-Booking-site/assets/81501977/7b4099bb-3279-4d9d-b499-fe5c0b5d3500)
 ![login](https://github.com/avisaini0501/Tour-and-Travel-Booking-site/assets/81501977/2e19616e-06a6-484f-8e07-18d63463eb4b)
+![register](https://github.com/avisaini0501/Tour-and-Travel-Booking-site/assets/81501977/d3073bbc-554d-4813-acb9-7859ef4d0925)
 
